@@ -1,0 +1,11 @@
+$theme_blue: #03A9F4;
+
+$primary: $theme_blue;
+$headings-color: $theme_blue;
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+body {
+    color: #212121;
+    background: #FFFFFF;
+}
